@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zliibbe
+- 👋 Hi, I’m Zach Liibbe
 - 👀 I’m interested in Front End coding and design. 
 - 🌱 I’m currently learning Javascript, HTML, CSS, Test-Driven Development, Object-Oriented Programming at Turing School of Software and Design
 - 💞️ I’m looking to collaborate on projects at Turing and front end web design opportunities.
