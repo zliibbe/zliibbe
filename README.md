@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zliibbe
 - 👀 I’m interested in Front End coding and design. 
-- 🌱 I’m currently learning HTML, CSS, Javascript, OOP, etc through Turing School of Software and Design
+- 🌱 I’m currently learning Javascript, HTML, CSS, Test-Driven Development, Object-Oriented Programming at Turing School of Software and Design
 - 💞️ I’m looking to collaborate on projects at Turing and front end web design opportunities.
 - 📫 How to reach me: zliibbe@gmail.com
 
