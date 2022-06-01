@@ -15,7 +15,7 @@
 
 
 <p display="flex"; justify-content="center">
-  <h3 align='center'>Languaes</h3>
+  <h3 align='center'>Languages</h3>
   <p align='center'>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zliibbe&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
