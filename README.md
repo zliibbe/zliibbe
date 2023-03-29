@@ -16,7 +16,7 @@
 
 
 <p display='flex'; justify-content='center'>
-  <h3 align='center'>Languages</h3>
+  <h3 align='center'>Languages & Technologies</h3>
   <p align='center'>
   
   
@@ -41,6 +41,7 @@
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zliibbe&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
