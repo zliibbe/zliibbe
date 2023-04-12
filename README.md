@@ -4,71 +4,61 @@
  </p> -->
 
 <p align="center">
-👋 Hi, I’m Zach Liibbe, a full-stack developer working remotely. 
+👋 Hi, I’m Zach Liibbe, a full-stack web developer who is passionate about clean, robust design. 
 </p>
+<div align="center">
+  <div>
 
-<p align="center"> I'm passionate about clean, robust design. And by design, I don't mean just clean graphics and attractive colors, I mean thoughtfully designed, reusable code that is robust, well-tested, and resilient.</p>
+  </div>  
 
+<p align="center"> I'm passionate about clean, robust code. Code is designed well, not when it has clean graphics and attractive colors, I mean thoughtfully designed, reusable code that is robust, well-tested, and resilient.</p>
 
-<p align="center">
-
-[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zliibbe&hide=stars&show_icons=true&theme=merko&line_height=35)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 align='center'>Contact</h2>
-
-<div align='center'>
-
-<a href="mailto:zliibbe@gmail.com"> 
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Gmail-512.png" alt="Gmail badge">
-</a> 
-
-<span></span>
-
-<a href="https://www.linkedin.com/in/zachliibbe/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"b alt="LinkedIn badge"/>
+  <div>
+    <h3>Contact: zliibbe(at)gmail-dot-com</h3> 
+    <h3>Social: <a href="https://www.linkedin.com/in/zachliibbe/">
+    <img height="35" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"b alt="LinkedIn badge"/>
 </a>
     </a>  
     <a href="https://www.strava.com/athletes/2161990">
-   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png" alt="Strava Badge"/>
-    </a> 
+   <img height="35" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png" alt="Strava Badge"/>
+    </a> </h3>
+  </div>
 
 <p display='flex'; justify-content='center'>
-  <h2 align='center'>Stack</h2>
+  <h2 align='center'>Technologies</h2>
   <p align='center'>
 
-<a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </a> <a href="https://www.postgresql.org/" target="_blank">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-</a> 
+  <a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/typescript-2978A0.svg?style=for-the-badge&logo=typescript&logoColor=white) </a> <a href="https://www.postgresql.org/" target="_blank">![Postgres](https://img.shields.io/badge/postgres-2978A0.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  </a> 
 
-![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-315659?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-315659.svg?style=for-the-badge&logo=express&logoColor=%white) 
 
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>;  -->
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Context](https://img.shields.io/badge/react_context-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React Router](https://img.shields.io/badge/React_Router-%2320232a?style=for-the-badge&logo=react-router&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-F9C846?style=for-the-badge&logo=graphql&logoColor=253031) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-F9C846?style=for-the-badge&logo=apollo-graphql&logoColor=253031) 
 
-![Node](https://img.shields.io/badge/Node.js-311C87?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-311C87?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) 
+![React](https://img.shields.io/badge/react-545863.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Redux](https://img.shields.io/badge/Redux-545863?style=for-the-badge&logo=redux&logoColor=%2361DAFB) 
 
-![ESLint](https://img.shields.io/badge/eslint-%2320232a.svg?style=for-the-badge&logo=eslint&logoColor=%2361DAFB) ![Prettier](https://img.shields.io/badge/prettier-%2320232a.svg?style=for-the-badge&logo=prettier&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React Context](https://img.shields.io/badge/react_context-545863.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-545863?style=for-the-badge&logo=react-router&logoColor=%2361DAFB) 
 
+![HTML5](https://img.shields.io/badge/html5-%23E5E5E5.svg?style=for-the-badge&logo=html5&logoColor=315659) ![CSS3](https://img.shields.io/badge/css3-%23E5E5E5.svg?style=for-the-badge&logo=css3&logoColor=315659) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23E5E5E5.svg?style=for-the-badge&logo=bootstrap&logoColor=315659) ![Sass](https://img.shields.io/badge/Sass-%23E5E5E5?style=for-the-badge&logo=sass&logoColor=315659)
 
+![ESLint](https://img.shields.io/badge/eslint-083D77.svg?style=for-the-badge&logo=eslint&logoColor=%2361DAFB) ![Prettier](https://img.shields.io/badge/prettier-083D77.svg?style=for-the-badge&logo=prettier&logoColor=%2361DAFB) 
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-C6E0FF.svg?style=for-the-badge&logo=webpack&logoColor=253031)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-C6E0FF.svg?style=for-the-badge&logo=githubactions&logoColor=253031)
+![Gatsby](https://img.shields.io/badge/Gatsby-C6E0FF.svg?style=for-the-badge&logo=gatsby&logoColor=253031) 
+ 
+ ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-C6E0FF?style=for-the-badge&logo=amazon-aws&logoColor=253031) ![Netlify](https://img.shields.io/badge/Netlify-C6E0FF?style=for-the-badge&logo=netlify&logoColor=253031)
 
+![Cypress](https://img.shields.io/badge/-cypress-FF9B71?style=for-the-badge&logo=cypress&logoColor=315659) ![Jest](https://img.shields.io/badge/-jest-FF9B71?style=for-the-badge&logo=jest&logoColor=315659)
+![Mocha](https://img.shields.io/badge/-mocha-FF9B71?style=for-the-badge&logo=mocha&logoColor=315659)
+![Chai](https://img.shields.io/badge/chai-FF9B71?style=for-the-badge&logo=chai&logoColor=315659) 
 
+![NPM](https://img.shields.io/badge/NPM-253031.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-253031.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-253031.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-253031.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-253031.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Mocha](https://img.shields.io/badge/-mocha-%23E5E5E5?style=for-the-badge&logo=mocha&logoColor=058a5e)
-![Chai](https://img.shields.io/badge/chai-%23E5E5E5?style=for-the-badge&logo=chai&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23E5E5E5?style=for-the-badge&logo=jest&logoColor=058a5e)
-
-![NPM](https://img.shields.io/badge/NPM-%23000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23000.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white) ![Mac](https://img.shields.io/badge/mac%20os-000?style=for-the-badge&logo=apple&logoColor=white) 
+ ![Markdown](https://img.shields.io/badge/Markdown-253031?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-253031.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-253031?style=for-the-badge&logo=linux&logoColor=white) ![Mac](https://img.shields.io/badge/mac%20os-253031?style=for-the-badge&logo=apple&logoColor=white) 
 
 
 
