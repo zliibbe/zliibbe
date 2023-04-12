@@ -17,8 +17,8 @@ My passion lies in creating code that is both clean and robust. Code must be wel
         </div>  
         <div style="flex: 1;">
           <h3>Follow me: </h3>    
-          <a href="https://www.linkedin.com/in/zachliibbe/"><img height="35" style="margin-right: 5px" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"b alt="LinkedIn badge"/></a>  
-          <a href="https://www.strava.com/athletes/2161990"><img height="35" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png" alt="Strava Badge"/></a>
+          <a href="https://www.linkedin.com/in/zachliibbe/" target="_blank"><img height="35" style="margin-right: 5px" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"b alt="LinkedIn badge"/></a>  
+          <a href="https://www.strava.com/athletes/2161990" target="_blank"><img height="35" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png" alt="Strava Badge"/></a>
         </div>  
   </div>
 
