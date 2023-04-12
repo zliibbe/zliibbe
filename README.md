@@ -31,7 +31,7 @@ My passion lies in creating code that is both clean and robust. Code must be wel
 
 <a href="https://nodejs.org/en" target="_blank">![Node](https://img.shields.io/badge/Node.js-494949?style=for-the-badge&logo=node.js&logoColor=white)</a> <a href="https://expressjs.com/" target="_blank">![Express](https://img.shields.io/badge/express-494949.svg?style=for-the-badge&logo=express&logoColor=%white)</a>
 
-<a href="https://graphql.org/" target="_blank">![GraphQL](https://img.shields.io/badge/-GraphQL-f5a444?style=for-the-badge&logo=graphql&logoColor=253031)</a> <a href="https://www.apollographql.com/" target="_blank">![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-f5a444?style=for-the-badge&logo=apollo-graphql&logoColor=253031)</a>
+<a href="https://graphql.org/" target="_blank">![GraphQL](https://img.shields.io/badge/-GraphQL-479900?style=for-the-badge&logo=graphql&logoColor=white)</a> <a href="https://www.apollographql.com/" target="_blank">![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-479900?style=for-the-badge&logo=apollo-graphql&logoColor=white)</a>
 
 <a href="https://react.dev/" target="_blank">![React](https://img.shields.io/badge/react-4536df?style=for-the-badge&logo=react&logoColor=white)</a> <a href="https://react-redux.js.org/" target="_blank">![React Redux](https://img.shields.io/badge/Redux-4536df.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
 
