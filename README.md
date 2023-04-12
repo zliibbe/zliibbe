@@ -7,11 +7,10 @@
 👋 Hi, I’m Zach Liibbe, a full-stack web developer who is passionate about clean, robust design. 
 </p>
 <div align="center">
-  <div>
 
-  </div>  
+<p align="center"> 
 
-<p align="center"> I'm passionate about clean, robust code. Code is designed well, not when it has clean graphics and attractive colors, I mean thoughtfully designed, reusable code that is robust, well-tested, and resilient.</p>
+My passion lies in creating code that is both clean and robust. Code must be well-designed; visually appealing graphics and colors are a must, but I truly come alive writing purposeful, efficient, reusable code that, due to rigorous testing is resilient.</p>
 
   <div>
     <h3>Contact: zliibbe(at)gmail-dot-com</h3> 
