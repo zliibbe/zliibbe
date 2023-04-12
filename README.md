@@ -59,37 +59,6 @@ My passion lies in creating code that is both clean and robust. Code must be wel
 
  ![Markdown](https://img.shields.io/badge/Markdown-253031?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-253031.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-253031?style=for-the-badge&logo=linux&logoColor=white) ![Mac](https://img.shields.io/badge/mac%20os-253031?style=for-the-badge&logo=apple&logoColor=white) 
 
-
-
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-
-
-
-codepen?
-codewars?
-hackerrank?
-leetcode?
-linktree? -->
-
-
-          
-
-
-
-<br></br>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zliibbe&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-<br></br>
-
-
-
-<!-- <p content-align="center">
-<h3 text-align="center">README Vistors:</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/zliibbe/count.svg)
-</p> -->
 <!---
 zliibbe/zliibbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
