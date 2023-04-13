@@ -33,9 +33,7 @@ My passion lies in creating code that is both clean and robust. Code must be wel
 
 <a href="https://graphql.org/">![GraphQL](https://img.shields.io/badge/-GraphQL-479900?style=for-the-badge&logo=graphql&logoColor=white)</a> <a href="https://www.apollographql.com/">![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-479900?style=for-the-badge&logo=apollo-graphql&logoColor=white)</a>
 
-<a href="https://react.dev/">![React](https://img.shields.io/badge/react-4536df?style=for-the-badge&logo=react&logoColor=white)</a> <a href="https://react-redux.js.org/">![React Redux](https://img.shields.io/badge/Redux-4536df.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
-
-<a href="https://legacy.reactjs.org/docs/context.html">![React Context](https://img.shields.io/badge/react_context-4536df.svg?style=for-the-badge&logo=react&logoColor=white)</a> <a href="https://reactrouter.com/en/main">![React Router](https://img.shields.io/badge/React_Router-3647df?style=for-the-badge&logo=react-router&logoColor=white)</a>
+<a href="https://react.dev/">![React](https://img.shields.io/badge/react-3647df?style=for-the-badge&logo=react&logoColor=white)</a> <a href="https://react-redux.js.org/">![React Redux](https://img.shields.io/badge/Redux-3647df.svg?style=for-the-badge&logo=redux&logoColor=white)</a> <a href="https://reactrouter.com/en/main">![React Router](https://img.shields.io/badge/React_Router-3647df?style=for-the-badge&logo=react-router&logoColor=white)</a>
 
 <a href="https://graphql.org/">![HTML5](https://img.shields.io/badge/html5-d8ca67.svg?style=for-the-badge&logo=html5&logoColor=253031)</a> <a href="https://graphql.org/">![CSS3](https://img.shields.io/badge/css3-d8ca67.svg?style=for-the-badge&logo=css3&logoColor=253031)</a> <a href="https://graphql.org/">![Bootstrap](https://img.shields.io/badge/bootstrap-d8ca67.svg?style=for-the-badge&logo=bootstrap&logoColor=253031)</a> <a href="https://graphql.org/">![Sass](https://img.shields.io/badge/Sass-d8ca67?style=for-the-badge&logo=sass&logoColor=253031)</a>
 
