@@ -51,7 +51,7 @@ My passion lies in creating code that is both clean and robust. Code must be wel
 <a href="https://docs.github.com/en/actions">![GitHub Actions](https://img.shields.io/badge/github%20actions-8BCEEB.svg?style=for-the-badge&logo=githubactions&logoColor=253031)</a>
 <a href="https://nextjs.org/">![Next.js](https://img.shields.io/badge/Next.js-8BCEEB.svg?style=for-the-badge&logo=next.js&logoColor=253031)</a> 
 
- <a href="https://aws.amazon.com/">![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-8BCEEB?style=for-the-badge&logo=amazon-aws&logoColor=253031)</a> <a href="https://vercel.com/">![Vercel](https://img.shields.io/badge/Amazon_AWS-8BCEEB?style=for-the-badge&logo=amazon-aws&logoColor=253031)</a> 
+ <a href="https://aws.amazon.com/">![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-8BCEEB?style=for-the-badge&logo=amazon-aws&logoColor=253031)</a> <a href="https://vercel.com/">![Vercel](https://img.shields.io/badge/vercel-8BCEEB?style=for-the-badge&logo=vercel&logoColor=253031)</a> 
  <a href="https://www.netlify.com/">![Netlify](https://img.shields.io/badge/Netlify-8BCEEB?style=for-the-badge&logo=netlify&logoColor=253031)</a>  
 
 <a href="https://chat.openai.com/">![ChatGPT](https://img.shields.io/badge/chatGPT-FFF.svg?style=for-the-badge&logo=openai&logoColor=253031)</a>
