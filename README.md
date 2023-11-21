@@ -37,7 +37,7 @@ My passion lies in creating code that is both clean and robust. Code must be wel
 
 <a href="https://react.dev/">![React](https://img.shields.io/badge/react-3647df?style=for-the-badge&logo=react&logoColor=white)</a> <a href="https://react-redux.js.org/">![React Redux](https://img.shields.io/badge/Redux-3647df.svg?style=for-the-badge&logo=redux&logoColor=white)</a> <a href="https://reactrouter.com/en/main">![React Router](https://img.shields.io/badge/React_Router-3647df?style=for-the-badge&logo=react-router&logoColor=white)</a>
 
-<a href="https://stateofhtml.com/en-US">![HTML5](https://img.shields.io/badge/html5-d8ca67.svg?style=for-the-badge&logo=html5&logoColor=253031)</a> <a href="https://stateofcss.com/en-US">![CSS3](https://img.shields.io/badge/css3-d8ca67.svg?style=for-the-badge&logo=css3&logoColor=253031)</a> <a href="https://getbootstrap.com//">![Bootstrap](https://img.shields.io/badge/bootstrap-d8ca67.svg?style=for-the-badge&logo=bootstrap&logoColor=253031)</a>
+<a href="https://stateofhtml.com/en-US">![HTML5](https://img.shields.io/badge/html5-d8ca67.svg?style=for-the-badge&logo=html5&logoColor=253031)</a> <a href="https://stateofcss.com/en-US">![CSS3](https://img.shields.io/badge/css3-d8ca67.svg?style=for-the-badge&logo=css3&logoColor=253031)</a> <a href="https://getbootstrap.com//">![Bootstrap](https://img.shields.io/badge/bootstrap-d8ca67.svg?style=for-the-badge&logo=bootstrap&logoColor=253031)</a> <a href="https://tailwindcss.com/docs/installation">![Tailwind](https://img.shields.io/badge/Tailwind_CSS-d8ca67.svg?style=for-the-badge&logo=tailwind-css&logoColor=253031)</a>
 
 <a href="https://eslint.org/">![ESLint](https://img.shields.io/badge/eslint-c3c3c3.svg?style=for-the-badge&logo=eslint&logoColor=253031)</a> <a href="https://prettier.io/">![Prettier](https://img.shields.io/badge/prettier-c3c3c3.svg?style=for-the-badge&logo=prettier&logoColor=253031)</a>
 
@@ -52,9 +52,8 @@ My passion lies in creating code that is both clean and robust. Code must be wel
 <a href="https://nextjs.org/">![Next.js](https://img.shields.io/badge/Next.js-8BCEEB.svg?style=for-the-badge&logo=next.js&logoColor=253031)</a> 
 
  <a href="https://aws.amazon.com/">![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-8BCEEB?style=for-the-badge&logo=amazon-aws&logoColor=253031)</a> <a href="https://vercel.com/">![Vercel](https://img.shields.io/badge/vercel-8BCEEB?style=for-the-badge&logo=vercel&logoColor=253031)</a> 
- <a href="https://www.netlify.com/">![Netlify](https://img.shields.io/badge/Netlify-8BCEEB?style=for-the-badge&logo=netlify&logoColor=253031)</a>  
 
-<a href="https://chat.openai.com/">![ChatGPT](https://img.shields.io/badge/chatGPT-FFF.svg?style=for-the-badge&logo=openai&logoColor=253031)</a>
+<a href="https://chat.openai.com/">![ChatGPT](https://img.shields.io/badge/chatGPT-494949.svg?style=for-the-badge&logo=openai&logoColor=white)</a>
 
 <a href="https://www.npmjs.com/">![NPM](https://img.shields.io/badge/NPM-FFF.svg?style=for-the-badge&logo=npm&logoColor=253031)</a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/git-FFF.svg?style=for-the-badge&logo=git&logoColor=253031)</a>
