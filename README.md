@@ -14,6 +14,10 @@ My passion lies in creating code that is both clean and robust. Code must be wel
         <div style="flex: 1; margin-right: 20px">
           <h3>Contact:</h3>
           <p>zliibbe (at) gmail-dot-com</p>
+        </div> 
+    <div style="flex: 1; margin-right: 20px">
+          <h3>Website:</h3>
+          <a href="https://zachliibbe.com">zachliibbe.com</a>
         </div>  
         <div style="flex: 1;">
           <h3>Follow me: </h3>    
